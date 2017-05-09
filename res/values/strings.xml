@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">RTMAP定位</string>
+    <string name="startLocate">开启定位 </string>
+    <string name="stopLocate">停止定位</string>
+
+</resources>
